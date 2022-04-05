@@ -13,7 +13,7 @@ O jogo da velha ou jogo do galo  é  um jogo de regras extremamente simples, que
 ● O objetivo é formar com a sua marca uma linha, podendo ser na horizontal, vertical ou diagonal.
 ## Como executar 👀
 -Projeto construido com Maven
- 1. Clone este repositório :
+ 1. Clone este repositório ou faça o download .zip deste [repositório](https://github.com/brysah/Jogo-da-Velha/archive/refs/heads/main.zip):
   $ git clone <https://github.com/brysah/Jogo-da-Velha>
   
  2. Acesse a pasta target do projeto no terminal/cmd :
