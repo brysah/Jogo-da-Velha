@@ -1,4 +1,6 @@
 # Jogo da Velha 🎮
+![GitHub repo size](https://img.shields.io/github/repo-size/brysah/Jogo-da-Velha?style=plastic)
+![GitHub](https://img.shields.io/github/license/brysah/Jogo-da-Velha)
 
 O jogo da velha ou jogo do galo  é  um jogo de regras extremamente simples, que não traz grandes dificuldades para seus jogadores e é facilmente aprendido. Nele é necessário colocar três símbolos iguais em sequência para ganhar.
 
